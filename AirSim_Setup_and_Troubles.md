@@ -8,4 +8,4 @@ https://microsoft.github.io/AirSim/unreal_blocks/
 https://github.com/microsoft/AirSim/issues/1753
 https://github.com/microsoft/AirSim/issues/755
 #### проблема с CMake решена. В директории репозитория AirSim нужно найти файл chek_cmake.bat. 
-#### В нем нужно указать необходимую версию в строке set "cmake_version=  3  .  27  .  7  "
+#### В нем нужно указать необходимую версию в строке set "cmake_version=    .    .    "
